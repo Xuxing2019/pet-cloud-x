@@ -49,11 +49,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pet-web/src/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23793103" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -161,6 +161,7 @@
       <workItem from="1598427610082" duration="933000" />
       <workItem from="1598428596161" duration="6768000" />
       <workItem from="1598436064492" duration="1723000" />
+      <workItem from="1598438368407" duration="53000" />
     </task>
     <servers />
   </component>
@@ -240,10 +241,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="426" y="210" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598427442958" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1598436771644">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1598438392137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598436771644" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598438392137" />
     <state x="397" y="220" key="new project wizard" timestamp="1598425291129">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
