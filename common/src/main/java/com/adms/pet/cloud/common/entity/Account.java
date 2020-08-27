@@ -1,5 +1,6 @@
 package com.adms.pet.cloud.common.entity;
 
+
 import java.io.Serializable;
 import java.math.BigDecimal;
 
@@ -7,6 +8,7 @@ import java.math.BigDecimal;
  * 帐户
  */
 public class Account implements Serializable{
+
 
     private Integer id;
     private String name;

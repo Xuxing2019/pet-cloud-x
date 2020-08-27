@@ -37,7 +37,7 @@ public class AdminController {
 
     @ResponseBody
     @RequestMapping(value = {"/find/account/all"})
-    public List<Account> findAccountAll(){
+    public List<Account> findAccountAll(Account account){
         System.out.println("热部署测试");
         return accountService.selectAll();
     }
