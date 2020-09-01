@@ -24,12 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aec2a6c-2e7d-42d5-8eef-b88a46358916" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pet-cloud-admin/src/main/java/com/adms/pet/cloud/admin/config/AdminConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/adms/pet/cloud/common/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/adms/pet/cloud/common/entity/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pet-cloud-admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-cloud-admin/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5aec2a6c-2e7d-42d5-8eef-b88a46358916" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
