@@ -1,6 +1,5 @@
 package com.adms.pet.cloud.common.entity;
 
-
 import java.io.Serializable;
 import java.math.BigDecimal;
 
